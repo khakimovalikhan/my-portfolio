@@ -22,13 +22,13 @@ Welcome to my portfolio website! This website showcases my projects, skills, and
 2. Open your browser and visit `http://localhost:3000` to view the website.
 
 ## Folder Structure 📂
-├── src
-│ ├── components # Reusable components
-│ ├── pages # Individual page components
-│ ├── assets # Images, icons, and other assets
-│ ├── styles # CSS and styling files
-│ └── App.js # Main application component
-└── ...
+- src
+  - components       # Reusable components
+  - pages            # Individual page components
+  - assets           # Images, icons, and other assets
+  - styles           # CSS and styling files
+  - App.js           # Main application component
+- ...
 
 ## Contributing 🪲
 
