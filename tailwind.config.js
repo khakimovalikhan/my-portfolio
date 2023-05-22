@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        mplus: ['\'M Plus Rounded 1c\', \'Verdana\', \'sans-serif\''],
+        mplus: ['\'M PLUS Rounded 1c\', \'Verdana\', \'sans-serif\''],
       },
     },
   },
